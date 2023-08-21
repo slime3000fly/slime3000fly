@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slime3000fly
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c++ and javascript
+- 🌱 I’m currently ML/AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me slime300fly@gmail.com
 
