@@ -20,5 +20,5 @@ Feel free to explore my self-improvement repository to see what I've been learni
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slime3000fly&show_icons=true&locale=en&layout=compact&theme=radical" alt="slime3000fly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slime3000fly&show_icons=true&locale=en" alt="slime3000fly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slime3000fly&show_icons=true&locale=en&theme=radical" alt="slime3000fly" /></p>
 
