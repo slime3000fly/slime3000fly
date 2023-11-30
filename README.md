@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
-<h3 align="center">I am junior IT admin</h3>
+<h3 align="center">I am junior DevOps</h3>
 
 <h3 align="center">About my self-improvement journey:</h3>
 
